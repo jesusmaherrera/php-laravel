@@ -1,0 +1,1 @@
+runtest -- vendor\bin\phpunit tests
